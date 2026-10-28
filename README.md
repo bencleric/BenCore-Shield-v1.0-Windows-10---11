@@ -10,6 +10,21 @@ BenCore Shield is a locally running **Windows PowerShell 5.1 + WPF desktop appli
 >
 > **Release status: Windows beta / test before deployment.** The code and XAML are packaged and checked statically, but **the WPF UI and Defender actions have not been executed on a Windows 11 machine** in the build environment. Test on a VM or noncritical PC before release or enterprise use.
 
+
+## BenCore Sheild Dashboard
+
+<p align="center">
+  <img src="https://i.ibb.co/gYCGwdm/Screenshot-2026-10-28-080655.png" alt="Screenshot 2026 10 28 080655" border="0">
+</p>
+
+<h3 align="center">
+  Protect your core. Unleash the Performance.
+</h3>
+
+<p align="center">
+  Developed by Benie Mansueto Vison
+</p>
+
 ## Capabilities
 
 | Section | What it does |
